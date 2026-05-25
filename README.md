@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/8.3-Yellow?style=plastic&logoColor=Yellow&label=1C&color=FFD700">
 <img src="https://img.shields.io/badge/%D0%91%D0%A1%D0%9F-v3.1%2B-red?style=plastic&color=red"> 
-<img src="https://img.shields.io/badge/release-v4.1-32CD32?style=plastic&color=1E90FF"> 
+<a href="https://github.com/VorozhbitDM/Access-control-1C/releases"><img src="https://img.shields.io/github/downloads/VorozhbitDM/Access-control-1C/total?label=Downloads&logo=github&style=flat-square&cacheSeconds=600" alt="Downloads"></a> 
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 Документация предоставляет полное описание функционала программы **Анализ и контроль доступа**. Используйте ее в качестве руководства для эффективного администрирования прав доступа в системе. Данная программа обеспечивает простоту настройки, мониторинга и анализа прав, а также автоматизацию ряда операций. 
 
-[![link](https://img.shields.io/badge/Download-v4.1-Grey?style=for-the-badge&logo=github&labelColor=696969&color=1E90FF)](https://github.com/VorozhbitDM/Access-control-1C/releases/tag/v4.4)
+[![link](https://img.shields.io/badge/Download-v4.4-Grey?style=for-the-badge&logo=github&labelColor=696969&color=1E90FF)](https://github.com/VorozhbitDM/Access-control-1C/releases/tag/v4.4)
 
 _______________________________________________________________________________________________________________________________
 
