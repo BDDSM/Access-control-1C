@@ -18,8 +18,6 @@
     <img src="https://img.shields.io/badge/Download-v4.4-Grey?style=for-the-badge&logo=github&labelColor=696969&color=1E90FF" alt="Download">
   </a>
 
-***
-
 > 📌 **Статус проекта обновлен** 
 >
 >Принято решение завершить поддержку и открыть исходный код для свободного использования и доработок. 
