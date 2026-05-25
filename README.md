@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/KA_2.4%2F2.5_%7C_ERP_2.5_%7C_%D0%A3%D0%A2_11.4%20-Yellow?style=plastic&logo=adguard&logoColor=Yellow&label=tested&color=FFD700">
 </p>
 
-## 📢 Обработка перешла в статус **Open Source**!
+## <p align="center">  📢 Обработка перешла в статус **Open Source**!
 
 <a href="https://github.com/VorozhbitDM/Access-control-1C/releases/tag/v4.4">
     <img src="https://img.shields.io/badge/Download-v4.4-Grey?style=for-the-badge&logo=github&labelColor=696969&color=1E90FF" alt="Download">
