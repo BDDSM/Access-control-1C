@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/yn7nkHPT/Access-Control-Logo.png" alt="Access Control Logo" border="0"></a>
+<a href="https://github.com/VorozhbitDM/Access-control-1C/releases"><img src="https://i.ibb.co/yn7nkHPT/Access-Control-Logo.png" alt="Access Control Logo" border="0"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/8.3-Yellow?style=plastic&logoColor=Yellow&label=1C&color=FFD700">
