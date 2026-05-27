@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
         <a href="https://github.com/VorozhbitDM/Access-control-1C/releases">
