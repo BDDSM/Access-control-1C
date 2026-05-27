@@ -1,14 +1,14 @@
 
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="0" frame="void" rules="none">
     <tr>
-      <td align="center">
+      <td style="border: none; padding-right: 20px; vertical-align: middle;" align="center">
         <a href="https://github.com/VorozhbitDM/Access-control-1C/releases">
           <img src="https://i.ibb.co/yn7nkHPT/Access-Control-Logo.png" alt="Access Control Logo" width="200">
         </a>
       </td>
-      <td align="left">
+      <td style="border: none; padding: 0; vertical-align: middle;" align="left">
         <img src="https://img.shields.io/badge/8.3-Yellow?style=plastic&logoColor=Yellow&label=1C&color=FFD700">
         <img src="https://img.shields.io/badge/%D0%91%D0%A1%D0%9F-v3.1%2B-red?style=plastic&color=red"> 
         <a href="https://github.com/VorozhbitDM/Access-control-1C/releases">
@@ -17,7 +17,7 @@
         <br><br>
         <img src="https://img.shields.io/badge/KA_2.4%2F2.5_%7C_ERP_2.5_%7C_%D0%A3%D0%A2_11.4%20-Yellow?style=plastic&logo=adguard&logoColor=Yellow&label=tested&color=FFD700">
         <br><br>
-        <div align="center" style="margin-top: 16px;">
+        <div align="center" style="margin-top: 15px;">
           <a href="https://infostart.ru/1c/tools/2111320/">
             <img src="https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg" alt="Infostart" width="150">
           </a>
