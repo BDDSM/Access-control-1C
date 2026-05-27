@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://infostart.ru/1c/tools/2111320/">
+  <a href="https://infostart.ru/1c/tools/2701584/">
     <img src="https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg" alt="Infostart" width="200">
   </a>
 </p>
