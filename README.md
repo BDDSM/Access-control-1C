@@ -22,9 +22,7 @@
 
 ## <p align="center">  📢 Обработка перешла в статус **Open Source**!
 
-<a href="https://github.com/VorozhbitDM/Access-control-1C/releases/tag/v4.5">
-    <img src="https://img.shields.io/badge/Download-v4.5-Grey?style=for-the-badge&logo=github&labelColor=696969&color=1E90FF" alt="Download">
-  </a>
+
 
 
 
@@ -32,6 +30,10 @@
 Обработка представляет собой набор инструментов для анализа и интерактивного управления правами доступа. Это не отчет, содержащий сводную информацию, а средство для непосредственного взаимодействия, предназначенное для решения задач в реальном времени.
 
 Документация предоставляет полное описание функционала программы **Анализ и контроль доступа**. Используйте ее в качестве руководства для эффективного администрирования прав доступа в системе. Данная программа обеспечивает простоту настройки, мониторинга и анализа прав, а также автоматизацию ряда операций. 
+
+<a href="https://github.com/VorozhbitDM/Access-control-1C/releases/tag/v4.5">
+    <img src="https://img.shields.io/badge/Download-v4.5-Grey?style=for-the-badge&logo=github&labelColor=696969&color=1E90FF" alt="Download">
+  </a>
 
 ***
 
