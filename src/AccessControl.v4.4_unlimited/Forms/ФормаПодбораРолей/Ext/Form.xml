@@ -182,18 +182,20 @@
 									<TitleLocation>None</TitleLocation>
 									<DropListButton>true</DropListButton>
 									<ClearButton>false</ClearButton>
-									<ListChoiceMode>true</ListChoiceMode>
-									<TextEdit>false</TextEdit>
+									<ListChoiceMode>false</ListChoiceMode>
+									<TextEdit>true</TextEdit>
 									<Font ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem"/>
 									<InputHint>
 										<v8:item>
 											<v8:lang>ru</v8:lang>
-											<v8:content>&lt;Начните с выбора роли&gt;</v8:content>
+											<v8:content>Введите имя или синоним роли для поиска</v8:content>
 										</v8:item>
 									</InputHint>
 									<ContextMenu name="ВыбраннаяРольКонтекстноеМеню" id="304"/>
 									<ExtendedTooltip name="ВыбраннаяРольРасширеннаяПодсказка" id="305"/>
 									<Events>
+										<Event name="OnChange">ВыбраннаяРольПриИзменении</Event>
+										<Event name="AutoComplete">ВыбраннаяРольАвтоПодбор</Event>
 										<Event name="StartChoice">ВыбраннаяРольНачалоВыбора</Event>
 									</Events>
 								</InputField>
@@ -687,7 +689,7 @@
 									<Title formatted="false">
 										<v8:item>
 											<v8:lang>ru</v8:lang>
-											<v8:content>v.4.4</v8:content>
+											<v8:content>v.4.5</v8:content>
 										</v8:item>
 									</Title>
 									<GroupVerticalAlign>Bottom</GroupVerticalAlign>
@@ -1466,7 +1468,6 @@
 														<ChildItems>
 															<Button name="РолиОбъектаКонтекстноеМенюСравнитьРоли" id="525">
 																<Type>CommandBarButton</Type>
-																<Visible>false</Visible>
 																<CommandName>Form.Command.СравнитьРоли</CommandName>
 																<ExtendedTooltip name="РолиОбъектаКонтекстноеМенюСравнитьРолиРасширеннаяПодсказка" id="526"/>
 															</Button>
@@ -4451,7 +4452,7 @@
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Сравнить роли (в разработке)</v8:content>
+					<v8:content>Сравнить роли</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
